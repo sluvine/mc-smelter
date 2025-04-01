@@ -1,7 +1,7 @@
 name: SmelterPlugin
 main: com.adamdoesthings.SmelterPlugin.SmelterPlugin
-version: 1.2.1
-api-version: 1.19
+version: 1.2.2
+api-version: 1.21
 commands:
   smelt:
     description: Smelts iron, gold, diamond, or chainmail items into ingots (or diamonds). Will also smelt iron nuggets into flint. Quantity returned depends on smelted item type and remaining durability. Hold item in main hand and fuel in off hand to use. Requires furnace in inventory.
